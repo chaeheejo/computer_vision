@@ -1,7 +1,8 @@
 from torch.utils.data import Dataset
 import torch
 
-
+#dataset 클래스
+#이미지 파일을 numpy 형태로 처리해줌
 class eyes_dataset(Dataset):
     def __init__(self, x_file_paths, y_file_path, transform=None):
         self.x_files = x_file_paths

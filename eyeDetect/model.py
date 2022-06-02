@@ -2,6 +2,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torchsummary import summary
 
+#모델 생성 convolution layer 3개와 pooling layer 3개, 마지막으로 결과 값을 도출해내는 linear layer로 형성되어 있음
 class Map(nn.Module):
     def __init__(self):
         super(Map, self).__init__()
