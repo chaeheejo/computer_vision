@@ -1,4 +1,4 @@
-# OpenCV_projects
+# computer_vision
 
 ### videoCapture.py
 > 노트북 상의 내장 카메라(0번)에 접근하여 화면의 노출값을 가져옴
@@ -13,6 +13,11 @@
 
 ### readVideo.py
 > 저장된 동영상을 가져와 파란색 - 초록색 - 빨간색으로 영상 색 변화
+
+<br />
+
+### numpy_basic.ipynb
+> openCV에서 많이 사용되는 numpy 문법 정리
 
 <br />
 
