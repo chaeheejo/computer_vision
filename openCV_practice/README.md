@@ -1,4 +1,4 @@
-# computer_vision / OpenCV
+# computer_vision / openCV_practice
 
 ### video_capture.py
 > 노트북 상의 내장 카메라(0번)에 접근하여 화면의 노출값을 가져옴
