@@ -2,6 +2,8 @@
 
 ## summary
 1. [컴퓨터 비전과 영상의 이해](https://blog.naver.com/60cogml/222911689905)
+2. [OpenCV와 Matrix](https://blog.naver.com/60cogml/222912097249)
+3. [OpenCV의 주요 기능](https://blog.naver.com/60cogml/222912358355)
 
 <br />
 
