@@ -6,6 +6,7 @@
 3. [OpenCV의 주요 기능](https://blog.naver.com/60cogml/222912358355)
 4. [영상의 밝기와 명암비 조절](https://blog.naver.com/60cogml/222912697887)
 5. [영상의 산술 및 논리 연산](https://blog.naver.com/60cogml/222912728552)
+6. [필터링](https://blog.naver.com/60cogml/222913272892)
 
 <br />
 
