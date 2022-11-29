@@ -9,6 +9,7 @@
 6. [필터링](https://blog.naver.com/60cogml/222913272892)
 7. [영상의 기하학적 변환](https://blog.naver.com/60cogml/222913438097)
 8. [에지 검출과 응용](https://blog.naver.com/60cogml/222941767204)
+9. [컬러 영상 처리](https://blog.naver.com/60cogml/222941840534)
 
 <br />
 
