@@ -8,6 +8,7 @@
 5. [영상의 산술 및 논리 연산](https://blog.naver.com/60cogml/222912728552)
 6. [필터링](https://blog.naver.com/60cogml/222913272892)
 7. [영상의 기하학적 변환](https://blog.naver.com/60cogml/222913438097)
+8. [에지 검출과 응용](https://blog.naver.com/60cogml/222941767204)
 
 <br />
 
