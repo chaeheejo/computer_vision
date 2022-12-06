@@ -11,6 +11,7 @@
 8. [에지 검출과 응용](https://blog.naver.com/60cogml/222941767204)
 9. [컬러 영상 처리](https://blog.naver.com/60cogml/222941840534)
 10. [이진화와 모폴로지](https://blog.naver.com/60cogml/222943483536)
+11. [레이블링과 외곽선 검출](https://blog.naver.com/60cogml)
 
 <br />
 
