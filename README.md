@@ -12,6 +12,9 @@
 9. [컬러 영상 처리](https://blog.naver.com/60cogml/222941840534)
 10. [이진화와 모폴로지](https://blog.naver.com/60cogml/222943483536)
 11. [레이블링과 외곽선 검출](https://blog.naver.com/60cogml)
+12. [객체 검출](https://blog.naver.com/60cogml/222948044815)
+13. [지역 특징점 검출과 매칭](https://blog.naver.com/60cogml/222948291010)
+14. [머신 러닝](https://blog.naver.com/60cogml/222948928848)
 
 <br />
 
