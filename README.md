@@ -16,6 +16,33 @@
 13. [지역 특징점 검출과 매칭](https://blog.naver.com/60cogml/222948291010)
 14. [머신 러닝](https://blog.naver.com/60cogml/222948928848)
 
+---
+
+## coco_test_training
+> training results on the coco dataset trained with yolov5
+
+### install yolov5
+```
+git clone https://github.com/ultralytics/yolov5  
+pip install -r requirements.txt
+```
+### write location of dataset
+```
+cd yolov5/data/[YOUR_CUSTOM].yaml  
+```
+at line 10, write your datasets location
+at line 11, write your train images location relative to path
+at line 12, write your validation images location relative to path
+
+### select dataset and yolo model
+```
+python train.py --img 640 --epochs [EPOCH_NUM] --data [YOUR_CUSTOM].yaml --weight [YOLO_WEIGHT].pt
+```
+### result with visualize
+```
+cd yolov5/runs/train/
+```
+
 <br />
 
 ## openCV_practice 
@@ -23,23 +50,5 @@
 
 <br />
 
-## coco_test_training
-> yolov5 학습  
-
-<br />
-
-epoch 50
-yolov5/train.py 파일로 학습 진행  
-yolov5/data/yaml에 데이터셋의 위치 작성  
-yolov5/models/ 에서 데이터 학습 모델 파일 지정
-
-<br />
-
 ## eye_detect
-> 웹캠을 통한 eye detection
-
-<br />
-
-데이터셋 npy 확장자  
-눈을 감은 사진, 뜬 사진 yolo-mark를 통해 라벨링  
-눈을 감고 있는 프레임이 50개가 지속된다면, 사용자 화면에 Wake up 문구 출력
+> 사용자가 눈을 감고 있는 프레임이 50개가 지속된다면 화면에 Wake up 문구 출력 &nbsp; [REPORT](https://github.com/chaeheejo/computer_vision/tree/main/eye_detect/report.pdf)
